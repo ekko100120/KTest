@@ -1,0 +1,6 @@
+com\KTest\domain\DemoObj.class
+com\KTest\Config\SpringmvcConfig.class
+com\KTest\Controller\HelloController.class
+com\KTest\App\WebInitializer.class
+com\KTest\Controller\DemoRestController.class
+com\KTest\Controller\CommonController.class

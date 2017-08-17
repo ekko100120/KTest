@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KTest:war">
+    <output-path>$PROJECT_DIR$/../KTest/target</output-path>
+    <root id="archive" name="KTest.war">
+      <element id="artifact" artifact-name="KTest:war exploded" />
+    </root>
+  </artifact>
+</component>
